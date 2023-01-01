@@ -11,3 +11,5 @@ https://en.wikipedia.org/wiki/Triangle
 function otherAngle(a, b) {
     return 180 - a - b;
   }
+
+  
