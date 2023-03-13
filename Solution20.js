@@ -4,3 +4,4 @@ function repeatString(string){
         newString=newString +string[i]+string[i]
     }
 }
+
