@@ -1,3 +1,1 @@
-function sortByLength (array) {
-    return array.sort((a,b) => a.length - b.length);
-  };
+var noOdds = values => values.filter(x => x % 2 === 0);
