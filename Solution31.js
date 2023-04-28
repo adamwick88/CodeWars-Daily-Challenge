@@ -20,3 +20,22 @@ function indexMultiple(array){
 return array.filter(n=>n%2===0).slice(-number)
 
 
+function bandGenerator(string){
+    if(str.charAt(0)===str.charAt(str.length-1)){
+        return str.charAt(0).toUpperCase()+str.slice(1)+str.slice(1);
+    }else{
+        reutn
+    }
+}
+
+function evenOnly(array,index){
+    return array.filter((a,i)=>array%2===0)
+}
+
+function whatEver(string){
+    return str.split(" ").map(word=>`$`)
+}
+
+function heroTime(bullets, dragons){
+    return bullets>=dragons * 2
+}
